@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_id": "sch-project-98515",
+    "project_number": "250895755302",
+    "name": "Sch Project"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250895755302:android:d8ec72a888ca9501",
+        "client_id": "android:com.education.schoolapp",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.education.schoolapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 2,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
