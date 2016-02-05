@@ -49,6 +49,7 @@
                 android:value="com.education.schoolapp.HomeMainActivity" />
         </activity>
 
+
         <service android:name="com.education.service.schoolapp.NetworkService" />
 
         <activity
